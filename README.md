@@ -25,7 +25,7 @@ Mutation Create Discount :
 ```
 
 ![Alt text](/discount.png "Discount")
-![Alt text](/discount.png "Function")
+![Alt text](/function.png "Function")
 ![Alt text](/logs.png "Logs")
 
 https://www.loom.com/share/e440e817e1f44c2bb7ad4af7ae9f60cb
