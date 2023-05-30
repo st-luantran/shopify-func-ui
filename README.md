@@ -29,3 +29,5 @@ Mutation Create Discount :
 ![Alt text](/logs.png "Logs")
 
 https://www.loom.com/share/e440e817e1f44c2bb7ad4af7ae9f60cb
+
+## Notes file shopify.app.toml scopes : write_discounts
